@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/asssa/CLionProjects/Shashe4ki/game/game.cpp
+game.h
+C:/Users/asssa/CLionProjects/Shashe4ki/game/game.h
+
+C:/Users/asssa/CLionProjects/Shashe4ki/game/game.h
+../strategies/field.h
+C:/Users/asssa/CLionProjects/Shashe4ki/strategies/field.h
+../strategies/computerlogic.h
+C:/Users/asssa/CLionProjects/Shashe4ki/strategies/computerlogic.h
+../strategies/standardrules.h
+C:/Users/asssa/CLionProjects/Shashe4ki/strategies/standardrules.h
+
+C:/Users/asssa/CLionProjects/Shashe4ki/strategies/computerlogic.h
+field.h
+C:/Users/asssa/CLionProjects/Shashe4ki/strategies/field.h
+
+C:/Users/asssa/CLionProjects/Shashe4ki/strategies/field.h
+iostream
+-
+vector
+-
+map
+-
+
+C:/Users/asssa/CLionProjects/Shashe4ki/strategies/standardrules.h
+field.h
+C:/Users/asssa/CLionProjects/Shashe4ki/strategies/field.h
+computerlogic.h
+C:/Users/asssa/CLionProjects/Shashe4ki/strategies/computerlogic.h
+

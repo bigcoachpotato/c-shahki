@@ -1,0 +1,9 @@
+C:/Users/asssa/CLionProjects/Shashe4ki/cmake-build-debug/CMakeFiles/Shashe4ki.dir
+C:/Users/asssa/CLionProjects/Shashe4ki/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/asssa/CLionProjects/Shashe4ki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/asssa/CLionProjects/Shashe4ki/cmake-build-debug/strategies/CMakeFiles/edit_cache.dir
+C:/Users/asssa/CLionProjects/Shashe4ki/cmake-build-debug/strategies/CMakeFiles/strategies.dir
+C:/Users/asssa/CLionProjects/Shashe4ki/cmake-build-debug/strategies/CMakeFiles/rebuild_cache.dir
+C:/Users/asssa/CLionProjects/Shashe4ki/cmake-build-debug/game/CMakeFiles/game.dir
+C:/Users/asssa/CLionProjects/Shashe4ki/cmake-build-debug/game/CMakeFiles/edit_cache.dir
+C:/Users/asssa/CLionProjects/Shashe4ki/cmake-build-debug/game/CMakeFiles/rebuild_cache.dir
