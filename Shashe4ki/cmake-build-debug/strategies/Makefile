@@ -140,6 +140,105 @@ strategies\fast:
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
 .PHONY : strategies\fast
 
+Person_Interface.obj: Person_Interface.cpp.obj
+
+.PHONY : Person_Interface.obj
+
+# target to build an object file
+Person_Interface.cpp.obj:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\Person_Interface.cpp.obj
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+.PHONY : Person_Interface.cpp.obj
+
+Person_Interface.i: Person_Interface.cpp.i
+
+.PHONY : Person_Interface.i
+
+# target to preprocess a source file
+Person_Interface.cpp.i:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\Person_Interface.cpp.i
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+.PHONY : Person_Interface.cpp.i
+
+Person_Interface.s: Person_Interface.cpp.s
+
+.PHONY : Person_Interface.s
+
+# target to generate assembly for a file
+Person_Interface.cpp.s:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\Person_Interface.cpp.s
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+.PHONY : Person_Interface.cpp.s
+
+computer_strategy_1.obj: computer_strategy_1.cpp.obj
+
+.PHONY : computer_strategy_1.obj
+
+# target to build an object file
+computer_strategy_1.cpp.obj:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\computer_strategy_1.cpp.obj
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+.PHONY : computer_strategy_1.cpp.obj
+
+computer_strategy_1.i: computer_strategy_1.cpp.i
+
+.PHONY : computer_strategy_1.i
+
+# target to preprocess a source file
+computer_strategy_1.cpp.i:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\computer_strategy_1.cpp.i
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+.PHONY : computer_strategy_1.cpp.i
+
+computer_strategy_1.s: computer_strategy_1.cpp.s
+
+.PHONY : computer_strategy_1.s
+
+# target to generate assembly for a file
+computer_strategy_1.cpp.s:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\computer_strategy_1.cpp.s
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+.PHONY : computer_strategy_1.cpp.s
+
+computer_strategy_2.obj: computer_strategy_2.cpp.obj
+
+.PHONY : computer_strategy_2.obj
+
+# target to build an object file
+computer_strategy_2.cpp.obj:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\computer_strategy_2.cpp.obj
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+.PHONY : computer_strategy_2.cpp.obj
+
+computer_strategy_2.i: computer_strategy_2.cpp.i
+
+.PHONY : computer_strategy_2.i
+
+# target to preprocess a source file
+computer_strategy_2.cpp.i:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\computer_strategy_2.cpp.i
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+.PHONY : computer_strategy_2.cpp.i
+
+computer_strategy_2.s: computer_strategy_2.cpp.s
+
+.PHONY : computer_strategy_2.s
+
+# target to generate assembly for a file
+computer_strategy_2.cpp.s:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\computer_strategy_2.cpp.s
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+.PHONY : computer_strategy_2.cpp.s
+
 computerlogic.obj: computerlogic.cpp.obj
 
 .PHONY : computerlogic.obj
@@ -173,72 +272,6 @@ computerlogic.cpp.s:
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
 .PHONY : computerlogic.cpp.s
 
-field.obj: field.cpp.obj
-
-.PHONY : field.obj
-
-# target to build an object file
-field.cpp.obj:
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
-	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\field.cpp.obj
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
-.PHONY : field.cpp.obj
-
-field.i: field.cpp.i
-
-.PHONY : field.i
-
-# target to preprocess a source file
-field.cpp.i:
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
-	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\field.cpp.i
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
-.PHONY : field.cpp.i
-
-field.s: field.cpp.s
-
-.PHONY : field.s
-
-# target to generate assembly for a file
-field.cpp.s:
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
-	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\field.cpp.s
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
-.PHONY : field.cpp.s
-
-standardrules.obj: standardrules.cpp.obj
-
-.PHONY : standardrules.obj
-
-# target to build an object file
-standardrules.cpp.obj:
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
-	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\standardrules.cpp.obj
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
-.PHONY : standardrules.cpp.obj
-
-standardrules.i: standardrules.cpp.i
-
-.PHONY : standardrules.i
-
-# target to preprocess a source file
-standardrules.cpp.i:
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
-	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\standardrules.cpp.i
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
-.PHONY : standardrules.cpp.i
-
-standardrules.s: standardrules.cpp.s
-
-.PHONY : standardrules.s
-
-# target to generate assembly for a file
-standardrules.cpp.s:
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
-	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\standardrules.cpp.s
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
-.PHONY : standardrules.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -248,15 +281,18 @@ help:
 	@echo ... edit_cache
 	@echo ... strategies
 	@echo ... rebuild_cache
+	@echo ... Person_Interface.obj
+	@echo ... Person_Interface.i
+	@echo ... Person_Interface.s
+	@echo ... computer_strategy_1.obj
+	@echo ... computer_strategy_1.i
+	@echo ... computer_strategy_1.s
+	@echo ... computer_strategy_2.obj
+	@echo ... computer_strategy_2.i
+	@echo ... computer_strategy_2.s
 	@echo ... computerlogic.obj
 	@echo ... computerlogic.i
 	@echo ... computerlogic.s
-	@echo ... field.obj
-	@echo ... field.i
-	@echo ... field.s
-	@echo ... standardrules.obj
-	@echo ... standardrules.i
-	@echo ... standardrules.s
 .PHONY : help
 
 

@@ -58,34 +58,9 @@ include strategies\CMakeFiles\strategies.dir\progress.make
 # Include the compile flags for this target's objects.
 include strategies\CMakeFiles\strategies.dir\flags.make
 
-strategies\CMakeFiles\strategies.dir\standardrules.cpp.obj: strategies\CMakeFiles\strategies.dir\flags.make
-strategies\CMakeFiles\strategies.dir\standardrules.cpp.obj: ..\strategies\standardrules.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object strategies/CMakeFiles/strategies.dir/standardrules.cpp.obj"
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategies.dir\standardrules.cpp.obj /FdCMakeFiles\strategies.dir\strategies.pdb /FS -c C:\Users\asssa\CLionProjects\Shashe4ki\strategies\standardrules.cpp
-<<
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
-
-strategies\CMakeFiles\strategies.dir\standardrules.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/strategies.dir/standardrules.cpp.i"
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\strategies.dir\standardrules.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\asssa\CLionProjects\Shashe4ki\strategies\standardrules.cpp
-<<
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
-
-strategies\CMakeFiles\strategies.dir\standardrules.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/strategies.dir/standardrules.cpp.s"
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategies.dir\standardrules.cpp.s /c C:\Users\asssa\CLionProjects\Shashe4ki\strategies\standardrules.cpp
-<<
-	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
-
 strategies\CMakeFiles\strategies.dir\computerlogic.cpp.obj: strategies\CMakeFiles\strategies.dir\flags.make
 strategies\CMakeFiles\strategies.dir\computerlogic.cpp.obj: ..\strategies\computerlogic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object strategies/CMakeFiles/strategies.dir/computerlogic.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object strategies/CMakeFiles/strategies.dir/computerlogic.cpp.obj"
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategies.dir\computerlogic.cpp.obj /FdCMakeFiles\strategies.dir\strategies.pdb /FS -c C:\Users\asssa\CLionProjects\Shashe4ki\strategies\computerlogic.cpp
@@ -108,46 +83,98 @@ strategies\CMakeFiles\strategies.dir\computerlogic.cpp.s: cmake_force
 <<
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
 
-strategies\CMakeFiles\strategies.dir\field.cpp.obj: strategies\CMakeFiles\strategies.dir\flags.make
-strategies\CMakeFiles\strategies.dir\field.cpp.obj: ..\strategies\field.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object strategies/CMakeFiles/strategies.dir/field.cpp.obj"
+strategies\CMakeFiles\strategies.dir\computer_strategy_1.cpp.obj: strategies\CMakeFiles\strategies.dir\flags.make
+strategies\CMakeFiles\strategies.dir\computer_strategy_1.cpp.obj: ..\strategies\computer_strategy_1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object strategies/CMakeFiles/strategies.dir/computer_strategy_1.cpp.obj"
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategies.dir\field.cpp.obj /FdCMakeFiles\strategies.dir\strategies.pdb /FS -c C:\Users\asssa\CLionProjects\Shashe4ki\strategies\field.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategies.dir\computer_strategy_1.cpp.obj /FdCMakeFiles\strategies.dir\strategies.pdb /FS -c C:\Users\asssa\CLionProjects\Shashe4ki\strategies\computer_strategy_1.cpp
 <<
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
 
-strategies\CMakeFiles\strategies.dir\field.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/strategies.dir/field.cpp.i"
+strategies\CMakeFiles\strategies.dir\computer_strategy_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/strategies.dir/computer_strategy_1.cpp.i"
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\strategies.dir\field.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\asssa\CLionProjects\Shashe4ki\strategies\field.cpp
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\strategies.dir\computer_strategy_1.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\asssa\CLionProjects\Shashe4ki\strategies\computer_strategy_1.cpp
 <<
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
 
-strategies\CMakeFiles\strategies.dir\field.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/strategies.dir/field.cpp.s"
+strategies\CMakeFiles\strategies.dir\computer_strategy_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/strategies.dir/computer_strategy_1.cpp.s"
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategies.dir\field.cpp.s /c C:\Users\asssa\CLionProjects\Shashe4ki\strategies\field.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategies.dir\computer_strategy_1.cpp.s /c C:\Users\asssa\CLionProjects\Shashe4ki\strategies\computer_strategy_1.cpp
+<<
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+
+strategies\CMakeFiles\strategies.dir\computer_strategy_2.cpp.obj: strategies\CMakeFiles\strategies.dir\flags.make
+strategies\CMakeFiles\strategies.dir\computer_strategy_2.cpp.obj: ..\strategies\computer_strategy_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object strategies/CMakeFiles/strategies.dir/computer_strategy_2.cpp.obj"
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategies.dir\computer_strategy_2.cpp.obj /FdCMakeFiles\strategies.dir\strategies.pdb /FS -c C:\Users\asssa\CLionProjects\Shashe4ki\strategies\computer_strategy_2.cpp
+<<
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+
+strategies\CMakeFiles\strategies.dir\computer_strategy_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/strategies.dir/computer_strategy_2.cpp.i"
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\strategies.dir\computer_strategy_2.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\asssa\CLionProjects\Shashe4ki\strategies\computer_strategy_2.cpp
+<<
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+
+strategies\CMakeFiles\strategies.dir\computer_strategy_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/strategies.dir/computer_strategy_2.cpp.s"
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategies.dir\computer_strategy_2.cpp.s /c C:\Users\asssa\CLionProjects\Shashe4ki\strategies\computer_strategy_2.cpp
+<<
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+
+strategies\CMakeFiles\strategies.dir\Person_Interface.cpp.obj: strategies\CMakeFiles\strategies.dir\flags.make
+strategies\CMakeFiles\strategies.dir\Person_Interface.cpp.obj: ..\strategies\Person_Interface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object strategies/CMakeFiles/strategies.dir/Person_Interface.cpp.obj"
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategies.dir\Person_Interface.cpp.obj /FdCMakeFiles\strategies.dir\strategies.pdb /FS -c C:\Users\asssa\CLionProjects\Shashe4ki\strategies\Person_Interface.cpp
+<<
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+
+strategies\CMakeFiles\strategies.dir\Person_Interface.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/strategies.dir/Person_Interface.cpp.i"
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\strategies.dir\Person_Interface.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\asssa\CLionProjects\Shashe4ki\strategies\Person_Interface.cpp
+<<
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+
+strategies\CMakeFiles\strategies.dir\Person_Interface.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/strategies.dir/Person_Interface.cpp.s"
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategies.dir\Person_Interface.cpp.s /c C:\Users\asssa\CLionProjects\Shashe4ki\strategies\Person_Interface.cpp
 <<
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
 
 # Object files for target strategies
 strategies_OBJECTS = \
-"CMakeFiles\strategies.dir\standardrules.cpp.obj" \
 "CMakeFiles\strategies.dir\computerlogic.cpp.obj" \
-"CMakeFiles\strategies.dir\field.cpp.obj"
+"CMakeFiles\strategies.dir\computer_strategy_1.cpp.obj" \
+"CMakeFiles\strategies.dir\computer_strategy_2.cpp.obj" \
+"CMakeFiles\strategies.dir\Person_Interface.cpp.obj"
 
 # External object files for target strategies
 strategies_EXTERNAL_OBJECTS =
 
-strategies\strategies.lib: strategies\CMakeFiles\strategies.dir\standardrules.cpp.obj
 strategies\strategies.lib: strategies\CMakeFiles\strategies.dir\computerlogic.cpp.obj
-strategies\strategies.lib: strategies\CMakeFiles\strategies.dir\field.cpp.obj
+strategies\strategies.lib: strategies\CMakeFiles\strategies.dir\computer_strategy_1.cpp.obj
+strategies\strategies.lib: strategies\CMakeFiles\strategies.dir\computer_strategy_2.cpp.obj
+strategies\strategies.lib: strategies\CMakeFiles\strategies.dir\Person_Interface.cpp.obj
 strategies\strategies.lib: strategies\CMakeFiles\strategies.dir\build.make
 strategies\strategies.lib: strategies\CMakeFiles\strategies.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX static library strategies.lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library strategies.lib"
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\strategies
 	$(CMAKE_COMMAND) -P CMakeFiles\strategies.dir\cmake_clean_target.cmake
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug

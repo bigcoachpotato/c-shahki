@@ -58,9 +58,34 @@ include game\CMakeFiles\game.dir\progress.make
 # Include the compile flags for this target's objects.
 include game\CMakeFiles\game.dir\flags.make
 
+game\CMakeFiles\game.dir\field.cpp.obj: game\CMakeFiles\game.dir\flags.make
+game\CMakeFiles\game.dir\field.cpp.obj: ..\game\field.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object game/CMakeFiles/game.dir/field.cpp.obj"
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\game.dir\field.cpp.obj /FdCMakeFiles\game.dir\game.pdb /FS -c C:\Users\asssa\CLionProjects\Shashe4ki\game\field.cpp
+<<
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+
+game\CMakeFiles\game.dir\field.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/game.dir/field.cpp.i"
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\game.dir\field.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\asssa\CLionProjects\Shashe4ki\game\field.cpp
+<<
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+
+game\CMakeFiles\game.dir\field.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/game.dir/field.cpp.s"
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\game.dir\field.cpp.s /c C:\Users\asssa\CLionProjects\Shashe4ki\game\field.cpp
+<<
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+
 game\CMakeFiles\game.dir\game.cpp.obj: game\CMakeFiles\game.dir\flags.make
 game\CMakeFiles\game.dir\game.cpp.obj: ..\game\game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object game/CMakeFiles/game.dir/game.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object game/CMakeFiles/game.dir/game.cpp.obj"
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\game.dir\game.cpp.obj /FdCMakeFiles\game.dir\game.pdb /FS -c C:\Users\asssa\CLionProjects\Shashe4ki\game\game.cpp
@@ -83,17 +108,46 @@ game\CMakeFiles\game.dir\game.cpp.s: cmake_force
 <<
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
 
+game\CMakeFiles\game.dir\standardrules.cpp.obj: game\CMakeFiles\game.dir\flags.make
+game\CMakeFiles\game.dir\standardrules.cpp.obj: ..\game\standardrules.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object game/CMakeFiles/game.dir/standardrules.cpp.obj"
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\game.dir\standardrules.cpp.obj /FdCMakeFiles\game.dir\game.pdb /FS -c C:\Users\asssa\CLionProjects\Shashe4ki\game\standardrules.cpp
+<<
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+
+game\CMakeFiles\game.dir\standardrules.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/game.dir/standardrules.cpp.i"
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\game.dir\standardrules.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\asssa\CLionProjects\Shashe4ki\game\standardrules.cpp
+<<
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+
+game\CMakeFiles\game.dir\standardrules.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/game.dir/standardrules.cpp.s"
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\game.dir\standardrules.cpp.s /c C:\Users\asssa\CLionProjects\Shashe4ki\game\standardrules.cpp
+<<
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+
 # Object files for target game
 game_OBJECTS = \
-"CMakeFiles\game.dir\game.cpp.obj"
+"CMakeFiles\game.dir\field.cpp.obj" \
+"CMakeFiles\game.dir\game.cpp.obj" \
+"CMakeFiles\game.dir\standardrules.cpp.obj"
 
 # External object files for target game
 game_EXTERNAL_OBJECTS =
 
+game\game.lib: game\CMakeFiles\game.dir\field.cpp.obj
 game\game.lib: game\CMakeFiles\game.dir\game.cpp.obj
+game\game.lib: game\CMakeFiles\game.dir\standardrules.cpp.obj
 game\game.lib: game\CMakeFiles\game.dir\build.make
 game\game.lib: game\CMakeFiles\game.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library game.lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX static library game.lib"
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
 	$(CMAKE_COMMAND) -P CMakeFiles\game.dir\cmake_clean_target.cmake
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug

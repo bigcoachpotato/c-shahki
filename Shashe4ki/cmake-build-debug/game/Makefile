@@ -140,6 +140,39 @@ game\fast:
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
 .PHONY : game\fast
 
+field.obj: field.cpp.obj
+
+.PHONY : field.obj
+
+# target to build an object file
+field.cpp.obj:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f game\CMakeFiles\game.dir\build.make /nologo -$(MAKEFLAGS) game\CMakeFiles\game.dir\field.cpp.obj
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
+.PHONY : field.cpp.obj
+
+field.i: field.cpp.i
+
+.PHONY : field.i
+
+# target to preprocess a source file
+field.cpp.i:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f game\CMakeFiles\game.dir\build.make /nologo -$(MAKEFLAGS) game\CMakeFiles\game.dir\field.cpp.i
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
+.PHONY : field.cpp.i
+
+field.s: field.cpp.s
+
+.PHONY : field.s
+
+# target to generate assembly for a file
+field.cpp.s:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f game\CMakeFiles\game.dir\build.make /nologo -$(MAKEFLAGS) game\CMakeFiles\game.dir\field.cpp.s
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
+.PHONY : field.cpp.s
+
 game.obj: game.cpp.obj
 
 .PHONY : game.obj
@@ -173,6 +206,39 @@ game.cpp.s:
 	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
 .PHONY : game.cpp.s
 
+standardrules.obj: standardrules.cpp.obj
+
+.PHONY : standardrules.obj
+
+# target to build an object file
+standardrules.cpp.obj:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f game\CMakeFiles\game.dir\build.make /nologo -$(MAKEFLAGS) game\CMakeFiles\game.dir\standardrules.cpp.obj
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
+.PHONY : standardrules.cpp.obj
+
+standardrules.i: standardrules.cpp.i
+
+.PHONY : standardrules.i
+
+# target to preprocess a source file
+standardrules.cpp.i:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f game\CMakeFiles\game.dir\build.make /nologo -$(MAKEFLAGS) game\CMakeFiles\game.dir\standardrules.cpp.i
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
+.PHONY : standardrules.cpp.i
+
+standardrules.s: standardrules.cpp.s
+
+.PHONY : standardrules.s
+
+# target to generate assembly for a file
+standardrules.cpp.s:
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug
+	$(MAKE) -f game\CMakeFiles\game.dir\build.make /nologo -$(MAKEFLAGS) game\CMakeFiles\game.dir\standardrules.cpp.s
+	cd C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\game
+.PHONY : standardrules.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -182,9 +248,15 @@ help:
 	@echo ... game
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... field.obj
+	@echo ... field.i
+	@echo ... field.s
 	@echo ... game.obj
 	@echo ... game.i
 	@echo ... game.s
+	@echo ... standardrules.obj
+	@echo ... standardrules.i
+	@echo ... standardrules.s
 .PHONY : help
 
 

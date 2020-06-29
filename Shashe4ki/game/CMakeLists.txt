@@ -1,10 +1,13 @@
 project(game)
 
 set(SOURCES
-        game.cpp)
+        field.cpp
+        game.cpp
+        standardrules.cpp)
 set(HEADERS
+        field.h
         game.h
-        )
+        standardrules.h)
 
 include_directories(../)
 

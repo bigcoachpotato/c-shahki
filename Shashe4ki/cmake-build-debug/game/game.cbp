@@ -64,10 +64,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/game/field.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/game/field.h">
+			<Option target="game"/>
+		</Unit>
 		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/game/game.cpp">
 			<Option target="game"/>
 		</Unit>
 		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/game/game.h">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/game/standardrules.cpp">
+			<Option target="game"/>
+		</Unit>
+		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/game/standardrules.h">
 			<Option target="game"/>
 		</Unit>
 		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/CMakeLists.txt">

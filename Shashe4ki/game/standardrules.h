@@ -2,13 +2,14 @@
 #define SHASHE4KI_STANDARDRULES_H
 
 #include "field.h"
-#include "computerlogic.h"
+#include "../strategies/computerlogic.h"
+#include <vector>
 
 using namespace std;
 
-vector<short> input_coords();
+class Field;
 
-bool check_correct(vector<short> situation, char &curturn, Field &gamefield);
+vector<short> input_coords();
 
 bool can_be_killed(short &left_coord, short &top_coord, Field &field);
 

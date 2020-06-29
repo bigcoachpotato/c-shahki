@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/game.dir/field.cpp.obj"
   "CMakeFiles/game.dir/game.cpp.obj"
+  "CMakeFiles/game.dir/standardrules.cpp.obj"
   "game.lib"
   "game.pdb"
 )

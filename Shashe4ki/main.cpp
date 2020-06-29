@@ -1,6 +1,7 @@
-#include "strategies/computerlogic.h"
+#include "game/field.h"
 #include "game/game.h"
-#include "strategies/field.h"
+
+struct Storage;
 
 
 enum Type_Of_Game {
@@ -69,10 +70,38 @@ Field gameoptions() {
 int main() {
     Field gamefield = gameoptions();
     char curturn = 'w';
-    for (int i = 0; i < 450; i++) {
-        gamefield.write();
-        game(gamefield, curturn);
+    if (!gamefield.white->i_am_computer || !gamefield.black->i_am_computer) {
+        for (int i = 0; i < 450; i++) {
+            gamefield.write();
+            game_space::game(gamefield, curturn);
+            if (gamefield.winner != 'n')
+                break;
+        }
+        if (gamefield.winner == 'n')
+            cout << "TIE";
+        else
+            cout << gamefield.winner << " wins";
+    } else {
+        int Ties = 0, first_strategy_wins = 0, second_strategy_wins = 0;
+        for (int j = 0; j < 1000; j++) {
+            gamefield.field_restore();
+            curturn = 'w';
+            for (int i = 0; i < 450; i++) {
+                game_space::game(gamefield, curturn);
+                if (gamefield.winner != 'n')
+                    break;
+            }
+            if (gamefield.winner == 'n')
+                Ties++;
+            else if (gamefield.winner == 'b') {
+                second_strategy_wins++;
+            } else if (gamefield.winner == 'w') {
+                first_strategy_wins++;
+            }
+        }
+        cout << "First strategy wins times : " << first_strategy_wins << " Second strategy wins times : "
+             << second_strategy_wins << " Ties : " << Ties << "\n";
+        return 0;
     }
-    cout << "\nTIE\n";
     return 0;
 }

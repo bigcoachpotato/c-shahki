@@ -113,8 +113,8 @@ strategies\clean: strategies\CMakeFiles\strategies.dir\clean
 # Target rules for target CMakeFiles/Shashe4ki.dir
 
 # All Build rule for target.
-CMakeFiles\Shashe4ki.dir\all: game\CMakeFiles\game.dir\all
 CMakeFiles\Shashe4ki.dir\all: strategies\CMakeFiles\strategies.dir\all
+CMakeFiles\Shashe4ki.dir\all: game\CMakeFiles\game.dir\all
 	$(MAKE) -f CMakeFiles\Shashe4ki.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Shashe4ki.dir\depend
 	$(MAKE) -f CMakeFiles\Shashe4ki.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Shashe4ki.dir\build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Shashe4ki"
@@ -122,7 +122,7 @@ CMakeFiles\Shashe4ki.dir\all: strategies\CMakeFiles\strategies.dir\all
 
 # Build rule for subdir invocation for target.
 CMakeFiles\Shashe4ki.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles 11
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\Shashe4ki.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles\Shashe4ki.dir\rule
@@ -144,12 +144,12 @@ CMakeFiles\Shashe4ki.dir\clean:
 strategies\CMakeFiles\strategies.dir\all:
 	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\depend
 	$(MAKE) -f strategies\CMakeFiles\strategies.dir\build.make /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=5,6,7,8 "Built target strategies"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=7,8,9,10,11 "Built target strategies"
 .PHONY : strategies\CMakeFiles\strategies.dir\all
 
 # Build rule for subdir invocation for target.
 strategies\CMakeFiles\strategies.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles 5
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) strategies\CMakeFiles\strategies.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles 0
 .PHONY : strategies\CMakeFiles\strategies.dir\rule
@@ -171,12 +171,12 @@ strategies\CMakeFiles\strategies.dir\clean:
 game\CMakeFiles\game.dir\all:
 	$(MAKE) -f game\CMakeFiles\game.dir\build.make /nologo -$(MAKEFLAGS) game\CMakeFiles\game.dir\depend
 	$(MAKE) -f game\CMakeFiles\game.dir\build.make /nologo -$(MAKEFLAGS) game\CMakeFiles\game.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target game"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles --progress-num=3,4,5,6 "Built target game"
 .PHONY : game\CMakeFiles\game.dir\all
 
 # Build rule for subdir invocation for target.
 game\CMakeFiles\game.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles 4
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) game\CMakeFiles\game.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\asssa\CLionProjects\Shashe4ki\cmake-build-debug\CMakeFiles 0
 .PHONY : game\CMakeFiles\game.dir\rule

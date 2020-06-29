@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/strategies.dir/Person_Interface.cpp.obj"
+  "CMakeFiles/strategies.dir/computer_strategy_1.cpp.obj"
+  "CMakeFiles/strategies.dir/computer_strategy_2.cpp.obj"
   "CMakeFiles/strategies.dir/computerlogic.cpp.obj"
-  "CMakeFiles/strategies.dir/field.cpp.obj"
-  "CMakeFiles/strategies.dir/standardrules.cpp.obj"
   "strategies.lib"
   "strategies.pdb"
 )

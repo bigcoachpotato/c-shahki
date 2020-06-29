@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Shashe4ki" targetName="Shashe4ki" />
+      <config projectName="Shashe4ki" targetName="game" />
+      <config projectName="Shashe4ki" targetName="strategies" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2d341bc-c82b-4aec-92ae-774b30dbeb4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cMEVkJQjCH4fHdoQPBqZk19EJY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asssa\CLionProjects\checks\game" />
+      <recent name="C:\Users\asssa\CLionProjects\checks\strategies" />
+      <recent name="C:\Users\1285166\CLionProjects\2ndSemCompGeom\Shashe4ki" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Shashe4ki">
+    <configuration name="Shashe4ki" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Shashe4ki" TARGET_NAME="Shashe4ki" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Shashe4ki" RUN_TARGET_NAME="Shashe4ki">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="game" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Shashe4ki" TARGET_NAME="game" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="strategies" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Shashe4ki" TARGET_NAME="strategies" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Shashe4ki" />
+      <item itemvalue="CMake Application.game" />
+      <item itemvalue="CMake Application.strategies" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2d341bc-c82b-4aec-92ae-774b30dbeb4e" name="Default Changelist" comment="" />
+      <created>1590330087154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590330087154</updated>
+      <workItem from="1590330088367" duration="2145000" />
+      <workItem from="1590427638449" duration="8524000" />
+      <workItem from="1590949215886" duration="6782000" />
+      <workItem from="1591020852427" duration="18332000" />
+      <workItem from="1591079810584" duration="24513000" />
+      <workItem from="1591161471346" duration="129000" />
+      <workItem from="1591188725007" duration="37000" />
+      <workItem from="1591188768624" duration="17867000" />
+      <workItem from="1591257450476" duration="30000" />
+      <workItem from="1591634915848" duration="1891000" />
+      <workItem from="1591730496080" duration="1489000" />
+      <workItem from="1591784770233" duration="26475000" />
+      <workItem from="1591964007735" duration="1409000" />
+      <workItem from="1592039254251" duration="124000" />
+      <workItem from="1592912609589" duration="154000" />
+      <workItem from="1592915907646" duration="11012000" />
+      <workItem from="1592926996946" duration="4092000" />
+      <workItem from="1592934121756" duration="1028000" />
+      <workItem from="1592936024758" duration="459000" />
+      <workItem from="1593006919260" duration="761000" />
+      <workItem from="1593265015000" duration="887000" />
+      <workItem from="1593425830372" duration="2414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1592934797873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592934797873" />
+    <state width="914" height="345" key="GridCell.Tab.0.bottom" timestamp="1592936484016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592936484016" />
+    <state width="914" height="345" key="GridCell.Tab.0.center" timestamp="1592936484016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592936484016" />
+    <state width="914" height="345" key="GridCell.Tab.0.left" timestamp="1592936484015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592936484015" />
+    <state width="914" height="345" key="GridCell.Tab.0.right" timestamp="1592936484016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592936484016" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1591037180108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591037180108" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592918180251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592918180251" />
+  </component>
+</project>

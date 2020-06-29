@@ -64,22 +64,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/Person_Interface.cpp">
+			<Option target="strategies"/>
+		</Unit>
+		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/Person_Interface.h">
+			<Option target="strategies"/>
+		</Unit>
+		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/basic_interface.h">
+			<Option target="strategies"/>
+		</Unit>
+		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/computer_strategy_1.cpp">
+			<Option target="strategies"/>
+		</Unit>
+		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/computer_strategy_1.h">
+			<Option target="strategies"/>
+		</Unit>
+		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/computer_strategy_2.cpp">
+			<Option target="strategies"/>
+		</Unit>
+		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/computer_strategy_2.h">
+			<Option target="strategies"/>
+		</Unit>
 		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/computerlogic.cpp">
 			<Option target="strategies"/>
 		</Unit>
 		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/computerlogic.h">
-			<Option target="strategies"/>
-		</Unit>
-		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/field.cpp">
-			<Option target="strategies"/>
-		</Unit>
-		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/field.h">
-			<Option target="strategies"/>
-		</Unit>
-		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/standardrules.cpp">
-			<Option target="strategies"/>
-		</Unit>
-		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/strategies/standardrules.h">
 			<Option target="strategies"/>
 		</Unit>
 		<Unit filename="C:/Users/asssa/CLionProjects/Shashe4ki/CMakeLists.txt">

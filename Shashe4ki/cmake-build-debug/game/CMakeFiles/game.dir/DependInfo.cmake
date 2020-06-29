@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/asssa/CLionProjects/Shashe4ki/game/field.cpp" "C:/Users/asssa/CLionProjects/Shashe4ki/cmake-build-debug/game/CMakeFiles/game.dir/field.cpp.obj"
   "C:/Users/asssa/CLionProjects/Shashe4ki/game/game.cpp" "C:/Users/asssa/CLionProjects/Shashe4ki/cmake-build-debug/game/CMakeFiles/game.dir/game.cpp.obj"
+  "C:/Users/asssa/CLionProjects/Shashe4ki/game/standardrules.cpp" "C:/Users/asssa/CLionProjects/Shashe4ki/cmake-build-debug/game/CMakeFiles/game.dir/standardrules.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 
